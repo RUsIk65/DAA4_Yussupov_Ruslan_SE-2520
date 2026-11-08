@@ -1,0 +1,7 @@
+Python: 3.12.14 (main, Aug 25 2026, 14:01:42) [MSC v.1944 64 bit (AMD64)]
+OS: Windows-11-10.0.26200-SP0
+CPU: AMD Ryzen 7 5800H with Radeon Graphics
+Physical RAM: 16473034752 bytes (15.34 GiB)
+java version "21.0.11" 2026-04-21 LTS
+Java(TM) SE Runtime Environment (build 21.0.11+9-LTS-211)
+Java HotSpot(TM) 64-Bit Server VM (build 21.0.11+9-LTS-211, mixed mode, sharing)
