@@ -1,4 +1,0 @@
-Note: C:\Project_Rus\DAA\Ass4\Java\source\Main.java uses unchecked or unsafe operations.
-Note: Recompile with -Xlint:unchecked for details.
-Language: Java
-PASS setup: ping
